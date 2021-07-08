@@ -1,6 +1,6 @@
 # share-memories-blog-app
 
-This is a memories sharing app ,where an individual can upload his/her memeories easily and share with others. With this you can also check others memories and gave them a like.
+This is a memories sharing app ,where an individual can upload his/her memories easily and share with others. With this you can also check others memories and gave them a like.
 This project is based on MERN ( MongoDb , Express, React , NodeJs ) stack.
 
 <h1> MERN description</h1>
